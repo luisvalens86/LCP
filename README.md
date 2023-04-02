@@ -1,4 +1,4 @@
-# LCP
+# Lung Cancer Prediction 
 Lung Cancer Prediction 
 
 New York Institute of Technology, Manhattan
