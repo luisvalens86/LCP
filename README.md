@@ -25,3 +25,10 @@ Recall
 F- Measure
 Time Taken
 Finding the best model!
+
+
+“Lung cancer is a type of cancer that begins in the lungs. Your lungs are two spongy organs in your chest that take in oxygen when you inhale and release carbon dioxide when you exhale.” – MayoClinic
+Lung cancer is the leading cause of cancer deaths worldwide.
+The effectiveness of the cancer prediction system helps people to know their cancer risk at a low cost and it also helps the people to take the appropriate decision based on their cancer risk status.
+ The data is collected from the website online lung cancer prediction system
+![image](https://user-images.githubusercontent.com/87353033/229332886-61c0fd73-237b-49d6-91f8-96804536fc95.png)
